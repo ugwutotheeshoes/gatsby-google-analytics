@@ -15,7 +15,11 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "cloudinary-core": "^2.12.3",
+    "cloudinary-react": "^1.7.2",
+    "cloudinary-video-player": "^1.9.1",
     "gatsby": "^4.14.0",
+    "gatsby-plugin-google-analytics": "^4.14.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
