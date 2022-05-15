@@ -4,6 +4,7 @@ module.exports = {
   },
   plugins: [
     // other plugin configurations go in here
+    `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
